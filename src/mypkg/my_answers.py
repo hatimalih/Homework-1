@@ -9,7 +9,7 @@ def numbers_and_strings():
     """
     This is to review numbers and strings and basic operations.
     """
-    # Write the value 4 to the pwor of 5
+    # Write the value 4 to the power of 5
     x = 
 
     # Assign a string "Stevens" to a variable y
