@@ -21,7 +21,7 @@ def numbers_and_strings():
     # What is the length of z?
     length = len(z)
 
-    # Concatenate variable y with string " Great"
+    # Concatenate variable y with string " is Great"
     m = y + " is Great"
 
     # Replace "Great" with "Good" in variable m and assign it to a new variable n
@@ -56,7 +56,7 @@ def lists():
 
     # We can convert a single character to its underlying integer code (e.g., its ASCII byte value)
     # by passing it to the built-in ord function. Generate a list of these integers to represent
-    # each character of the string "Stevens" using list comprehension.
+    # each character of the string "Hoboken" using list comprehension.
     o = [ord(i) for i in "Hoboken"]
 
     return p, r, c, d, o
@@ -74,6 +74,7 @@ def dictionaries():
 
     # Get the item in dictionary f that the key "fruit" maps to
     a = f["fruit"]
+    
     # Increase the quantity of f by 1
     f["quantity"] += 1
 
