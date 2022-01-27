@@ -1,11 +1,5 @@
 #!/usr/bin/python
 
-"""
-Python Core object Types
-"""
-
-
-#!/usr/bin/python
 
 """
 Python Core object Types
