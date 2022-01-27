@@ -6,8 +6,8 @@
 - Go to src/mypkg then modify the file "my_answers.py". You should be able to run this file as you are editing it but tests will not be run yet.
 
 - In order to run the tests, make sure you have pytest installed in your environment. Simply type "pip install pytest".
+      
       pip is automatically installed if you are:
-
             working in a virtual environment.
 
             using Python downloaded from python.org
