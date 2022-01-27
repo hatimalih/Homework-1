@@ -85,7 +85,8 @@ def dictionaries():
     a = f['fruit']
     # Increase the quantity of f by 1
     
-
+    f['quantity']+1
+    
     # Create a nested dictionary where:
     #   name => {first_name => "Grace", last_name => "Hopper"} (a dictionary)
     #   jobs => ["scientist", "engineer"] (a list)
