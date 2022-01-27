@@ -8,11 +8,11 @@
 - In order to run the tests, make sure you have pytest installed in your environment. Simply type "pip install pytest".
       
       pip is automatically installed if you are:
-            working in a virtual environment.
+           - working in a virtual environment.
 
-            using Python downloaded from python.org
+           - using Python downloaded from python.org
 
-            using Python that has not been modified by a redistributor to remove ensurepip.
+           - using Python that has not been modified by a redistributor to remove ensurepip.
             
       If you having issue running pip please follow instructions using this link
                       https://pip.pypa.io/en/stable/installation/#get-pip-py
